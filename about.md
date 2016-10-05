@@ -8,8 +8,6 @@ I am a pre-final year Undergraduate student in Computer Science and Engineering 
 
 If you have something exciting to share in the domains of novel applications of ML, I'd love to hear from you. I am a novice in the field, but feel deeply intrigued by many tasks that can be automated with its help. 
 
-### More Information
-
 ### Contact me
 
 [asnani04@gmail.com](mailto:asnani04@gmail.com)
