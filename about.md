@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a pre-final year Undergraduate student in Computer Science and Engineering at Indian Institute of Technology Kanpur. My interests include algorithms, machine learning and mathematics. I'm also inclined towards writing (technical, journalistic and fiction), public speaking and management. 
+
+If you have something exciting to share in the domains of novel applications of ML, I'd love to hear from you. I am a novice in the field, but feel deeply intrigued by many tasks that can be automated with its help. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[asnani04@gmail.com](mailto:asnani04@gmail.com)
